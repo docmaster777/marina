@@ -1,0 +1,12 @@
+.admin__wrap__images{
+    margin: 5px 10px;
+}
+
+.glyphicon-remove:before {
+    color: #f00b03;
+    margin: 0 0 0 5px;
+}
+
+.view__product{
+    margin-bottom: 15px;
+}
